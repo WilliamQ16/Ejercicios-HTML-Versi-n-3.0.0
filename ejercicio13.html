@@ -1,0 +1,72 @@
+<!--
+    Entidad: Centro de Biotecnología Agropecuaria
+    Ficha: 2558346
+    Programa: Análisis y Desarrollo de Software - A.D.S.O
+    Autor: William David Garzón Quevedo
+    Objetivo: Usó de la etiqueta form y input.
+    Fecha Creación: 31 de Julio del 2022
+    Versión: 2.0.0
+    Fecha de Modificación: 7 de Agosto del 2022
+
+-->
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Ejercicio 13</title>
+
+    <link rel="stylesheet" href="css/ejercicio13.css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h3>Rellena tu CV</h3>
+
+      <form action="#" method="post" enctype="multipart/form-data">
+        Nombre<br />
+        <input type="text" name="nombre" value="" size="20" maxlength="30" />
+        <br />
+        Apellidos<br />
+        <input type="text" name="apellidos" value="" size="50" maxlength="80" />
+        <br />
+        Contraseña<br />
+        <input type="password" name="contrasena" value="" maxlength="10" />
+        <br />
+        DNI<br />
+        <input type="text" name="dni" value="" size="10" maxlength="9" />
+        <br />
+        DNI<br />
+        <input
+          type="radio"
+          name="sexo"
+          value="hombre"
+          size="10"
+          checked="checked"
+        />Hombre <br />
+        <input type="radio" name="sexo" value="mujer" size="10" />Mujer
+        <br /><br />
+        Incluir mi foto <input type="file" name="foto" /> <br /><br />
+        <input
+          type="checkbox"
+          name="suscribir"
+          value="suscribir"
+          checked="checked"
+        />Suscribirme al boletín de novedades <br /><br />
+        <input
+          type="submit"
+          name="enviar"
+          value="Guardar cambios"
+          class="boton"
+        />
+        <input
+          type="reset"
+          name="limpiar"
+          value="Borrar los datos introducidos"
+          class="boton"
+        />
+      </form>
+    </div>
+  </body>
+</html>

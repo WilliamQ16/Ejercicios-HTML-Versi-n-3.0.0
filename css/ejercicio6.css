@@ -1,0 +1,25 @@
+body{
+
+    background: cornflowerblue;
+
+}
+
+.container{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+#enlace{
+
+    border: solid;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: white;
+    background: white;
+    color: cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}

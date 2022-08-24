@@ -1,0 +1,25 @@
+body{
+
+    background: darkkhaki;
+
+}
+
+.container{
+
+    margin-left: 40%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.lista{
+
+    border: solid;
+    margin-right: 80%;
+
+}
+
+.lista a{
+
+    color: black;
+
+}

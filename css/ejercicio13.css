@@ -1,0 +1,42 @@
+body{
+
+    background: green;
+
+}
+
+.container{
+
+    border: solid;
+    background: white;
+    margin-left: 40%;
+    margin-right: 30%;
+    padding-left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 20px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    border-color: white;
+
+}
+
+h3{
+
+    padding-left: 120px;
+
+}
+
+.boton{
+
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+    padding: 10px;
+    background: green;
+    color: white;
+
+}

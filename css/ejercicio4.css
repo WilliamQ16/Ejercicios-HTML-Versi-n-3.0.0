@@ -1,0 +1,16 @@
+.container{
+
+    border:solid;
+    text-align: center;
+    border-width: 5px;
+    border-color: yellow;
+    background-color: black;
+    color: yellow;
+
+}
+
+#titulo{
+
+    font-size: 30px;
+
+}

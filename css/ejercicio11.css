@@ -1,0 +1,62 @@
+body{
+
+    background: grey;
+    text-align: center;
+    margin-right: 40%;
+    margin-left: 40%;
+    margin-top: 3%;
+
+}
+
+h1{
+
+    border: solid;
+    padding: 8px;
+    border-radius: 5px;
+    color: white;
+    background: blue;
+    margin-left: 115px;
+
+}
+
+table{
+
+    border: solid;
+    padding: 6px;
+    border-radius: 5px;
+    color: white;
+    background: blue;
+
+}
+
+td a{
+
+    color: white;
+
+}
+
+th{
+
+    font-size: 30px;
+
+}
+
+td{
+
+    padding: 50px;
+
+}
+
+.precio{
+
+    border: solid;
+    padding: 6px;
+    border-radius: 6px;
+    background: white;
+    color: blue;
+    font-size: 25px;
+
+}
+
+
+

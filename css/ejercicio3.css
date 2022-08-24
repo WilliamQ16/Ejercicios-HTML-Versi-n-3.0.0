@@ -1,0 +1,25 @@
+.container{
+
+    border: solid;
+    text-align: center;
+    background: bisque;
+
+}
+
+.acro{
+
+    border: solid;
+    border-radius: 5px;
+    background: black;
+    color: white;
+    border-color: black;
+}
+
+#cita{
+
+    border:solid;
+    margin-top: 30px;
+    background: #CC9900;
+    padding: 8px;
+
+}

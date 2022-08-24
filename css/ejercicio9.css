@@ -1,0 +1,30 @@
+body{
+
+    background: palevioletred;
+
+}
+
+.container{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+
+}
+
+.container a{
+
+    border: solid;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: white;
+    color: white;
+
+}
+
+.pagina{
+
+    text-align: center;
+
+}
+
+

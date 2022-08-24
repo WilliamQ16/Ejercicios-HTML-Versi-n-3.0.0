@@ -1,0 +1,20 @@
+.container{
+
+    background: lightgoldenrodyellow;
+    border: solid;
+    padding-left: 40%;
+
+}
+
+#titulo{
+
+    padding-left: 45px;
+
+}
+
+.cita{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+
+}

@@ -1,0 +1,16 @@
+#marco{
+
+    border: solid;
+    background: Blue;
+    border-color: white;
+    color: white;
+
+}
+
+.container{
+
+    border:double;
+    text-align: center;
+    border-width: 20px;
+
+}

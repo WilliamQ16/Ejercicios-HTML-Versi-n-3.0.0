@@ -1,0 +1,51 @@
+.container{
+
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+h1{
+
+    border: solid;
+    background: black;
+    color: white;
+    border-color: black;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+table{
+
+    border: solid;
+    background: black;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+th{
+
+    padding: 6px;
+    color: white;
+
+}
+
+td{
+
+    padding: 6px;
+    background: white;
+
+}
+
+.total{
+
+    color: white;
+    background: black;
+
+}
